@@ -55,7 +55,7 @@ It helps automate the hiring process by analyzing resumes intelligently instead 
 ## 🟢 1. Frontend UI
 Main interface where user uploads resume and enters job description.
 
-![Frontend UI](images/1_frontend.png)
+![Frontend UI](images/1_frontend.jpg)
 
 ---
 
