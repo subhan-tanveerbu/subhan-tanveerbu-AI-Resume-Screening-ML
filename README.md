@@ -71,7 +71,7 @@ User provides CV and job description for analysis.
 System controls and configuration options.
 
 
-![Settings](SETTINGS.JPG)
+![settings](settings.JPG)
 
 ---
 
