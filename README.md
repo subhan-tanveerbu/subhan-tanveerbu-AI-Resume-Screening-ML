@@ -62,7 +62,8 @@ Main interface where user uploads resume and enters job description.
 ## 🟡 2. Resume + Job Description Input
 User provides CV and job description for analysis.
 
-![Input Screen](images/2__cv_jd.jpg)
+![Input]( _cv_jd.JPG )
+
 
 ---
 
@@ -70,7 +71,7 @@ User provides CV and job description for analysis.
 System controls and configuration options.
 
 
-![Settings Panel](images/3_settings.jpg)
+![Settings](SETTINGS.JPG)
 
 ---
 
@@ -78,14 +79,14 @@ System controls and configuration options.
 User can switch interface language.
 
 
-![Language Options](images/4_language.jpg)
+![Language](language.JPG)
 
 ---
 
 ## ⚫ 5. Light / Dark Theme
 UI theme customization feature.
 
-![Theme Toggle](images/5_theme.jpg)
+![Theme](theme.JPG)
 
 ---
 
