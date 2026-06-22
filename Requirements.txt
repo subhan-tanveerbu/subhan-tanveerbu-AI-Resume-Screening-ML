@@ -1,0 +1,6 @@
+pdfplumber
+nltk
+scikit-learn
+pandas
+numpy
+gradio
